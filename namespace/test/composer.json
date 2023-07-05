@@ -1,0 +1,15 @@
+{
+    "name": "mac/test",
+    "autoload": {
+        "psr-4": {
+            "Mac\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "richard1230",
+            "email": "yongjinhu1230@gmail.com"
+        }
+    ],
+    "require": {}
+}

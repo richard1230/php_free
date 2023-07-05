@@ -1,0 +1,15 @@
+{
+    "name": "mac/exception-app",
+    "autoload": {
+        "psr-4": {
+            "ExceptionApp\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "richard1230",
+            "email": "xxxxx@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,1 @@
+a:4:{s:4:"Host";s:9:"lOcalhost";s:4:"poRt";i:3306;s:4:"User";s:4:"roOT";s:5:"cAche";a:2:{s:4:"tIme";i:10;s:4:"User";s:5:"AdmIn";}}
